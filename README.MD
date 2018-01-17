@@ -1,6 +1,8 @@
 to install
 ---
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/gabrielmancini/convert.svg)](https://greenkeeper.io/)
+
 use node > 8
 
 ```
