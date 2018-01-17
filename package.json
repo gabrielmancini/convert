@@ -6,6 +6,9 @@
   "scripts": {
     "test": "mocha -w"
   },
+  "bin": {
+    "convert": "./bin/cli.js"
+  },
   "author": "",
   "license": "ISC",
   "devDependencies": {
@@ -13,7 +16,9 @@
   },
   "dependencies": {
     "commander": "^2.13.0",
+    "http-parser-js": "^0.4.9",
     "readline-stream": "^1.0.2",
+    "request": "^2.83.0",
     "requireindex": "^1.1.0"
   }
 }
