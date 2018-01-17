@@ -39,3 +39,10 @@ for debug
 ```
 NODE_DEBUG=convert
 ```
+
+for test
+---
+
+```
+npm test
+```
